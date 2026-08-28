@@ -45,6 +45,16 @@
 </p>
 
 ---
+## 🚀 Space Studios
+
+Sou fundador e desenvolvedor da **Space Studios**, um estúdio independente focado na criação de jogos e experiências digitais.
+
+🎮 Desenvolvimento de jogos com Unity e C#  
+💡 Criação de projetos autorais e experiências interativas  
+🚀 Buscando transformar ideias em jogos e produtos reais
+
+🌐 [Conheça a Space Studios](https://www.spacestudios.com.br/)
+---
 
 ## 🚀 Projetos
 
