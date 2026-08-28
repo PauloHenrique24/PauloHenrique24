@@ -46,14 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrique24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique24&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
----
-
 ## 🚀 Projetos
 
 🎮 Desenvolvimento de jogos com Unity  
